@@ -1,4 +1,9 @@
-# Mission 1 Intermediete FE Reactjs - Harisenin
+# Mission 2 Intermediete FE Reactjs - Harisenin
+
+## Implementation Usestate and array object
+
+- carousel card
+- accordion footer
 
 ## Tech Stack
 
