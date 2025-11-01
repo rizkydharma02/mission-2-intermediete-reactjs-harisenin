@@ -48,7 +48,7 @@ export const dataFilms = [
     title: 'Shazam!',
     subTitle: 'Film',
     genre: ['Action', 'Comedy', 'Fantasy'],
-    ongGoing: false,
+    onGoing: false,
     rating: '7.0',
   },
   {
